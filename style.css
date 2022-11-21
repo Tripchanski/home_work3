@@ -1,0 +1,50 @@
+body{
+    background-color: #d5b59c;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 40px;
+}
+
+
+h3{
+    padding-bottom: 10px;
+    font-size: 1.35em;
+    text-align: center;
+}
+
+
+li{
+    padding: 0.35em;
+    font-size: 1.1em;
+}
+
+
+li:hover{
+    font-size: 1.2em;
+}
+
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+td{     
+    width: 400px;
+    display: table-cell;                           
+    border: 3px solid rgb(0, 0, 0);
+    opacity: 1;
+}
+
+table {
+    width: 65%;
+    border: 3px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+}
